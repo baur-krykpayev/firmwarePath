@@ -5,3 +5,12 @@ This guide will be divided into different parts...eventually. For now, its a big
 
 Firmware is an art and it requires having projects. Personal portfolio website is a must have. Here is mine [baurlogic.com](http://baurlogic.com/)
 
+Brief: 
+- learn the basics
+- do the projects
+- apply for a job
+- do the projects
+- do a good job
+- do the projects
+- ship the project
+
